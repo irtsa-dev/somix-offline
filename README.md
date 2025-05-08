@@ -3,14 +3,14 @@
         height="400">
 </p>
 <p align="center">
-<a href="https://github.com/irtsa-dev/somix/releases/tag/v1.0.0">
+<a href="https://github.com/irtsa-dev/somix-offline/releases/tag/v1.0.0">
         <img src="https://img.shields.io/badge/release-1.0.0-brightgreen"
             alt="release"></a>
-<a href="https://github.com/irtsa-dev/somix/issues">
-        <img src="https://custom-icon-badges.demolab.com/github/issues-raw/irtsa-dev/somix?logo=issue"
+<a href="https://github.com/irtsa-dev/somix-offline/issues">
+        <img src="https://custom-icon-badges.demolab.com/github/issues-raw/irtsa-dev/somix-offline?logo=issue"
             alt="issues"></a>
-<a href="https://github.com/irtsa-dev/somix/pulls">
-        <img src="https://custom-icon-badges.demolab.com/github/issues-pr/irtsa-dev/somix?logo=git-pull-request"
+<a href="https://github.com/irtsa-dev/somix-offline/pulls">
+        <img src="https://custom-icon-badges.demolab.com/github/issues-pr/irtsa-dev/somix-offline?logo=git-pull-request"
             alt="pulls"></a>
 </p>
 <br />
@@ -23,7 +23,7 @@
 </p>
 <br />
 <p align="center">
-    Reference the <a href="https://github.com/irtsa-dev/somix/releases">Releases</a> for public releases including the source-code and executable.
+    Reference the <a href="https://github.com/irtsa-dev/somix-offline/releases">Releases</a> for public releases including the source-code and executable.
 </p>
 <br />
 <br />
